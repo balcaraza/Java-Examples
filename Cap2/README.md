@@ -1,18 +1,20 @@
-## Getting Started
+# Capitulo 2 Introduccion a las aplicaciones en Java: entrada/salida y operadores
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Objetivos
 
-## Folder Structure
+En esta sección se aprendera a:
 
-The workspace contains two folders by default, where:
+- Escribir aplicaciones simples de Java.
+- Utilizar instrucciones de entrada y salida.
+- Familiarizarse como los tipos primitivos de Java.
+- Comprender los conceptos basicos de la memoria.
+- Utilizar los operadores aritmeticos
+- Comprender la precedencia de los operadores aritmeticos.
+- Escribir instrucciones para tomar desiciones.
+- Utilizar los operadores relacionales y de igualdad.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Introducción
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+En este capitulo se empezaran a desarrollar pequeñas aplicaciones en Java de menor a mayor complejidad.
+Se comenzara con ejemplos que imprimen mensajes posteriormente con ejemplos que muestran mensajes en pantalla, ejemplos que realizan calculos y por ultimo ejemplos que toman decisiones.
