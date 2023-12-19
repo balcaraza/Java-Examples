@@ -15,7 +15,7 @@
 ## Introducción
 <p align="justify">
   Mi nombre es Balam Alcaraz, soy Ingeniero en Control y Automatización egresado del IPN, actualmente me encuentro aprendiendo a programar en Java ya que es uno de los lenguajes 
-  de programación mas utilizados actualme.
+  de programación mas utilizados actualmente.
 </p>
 <p>Una de mis metas es convertirme en un programador con este lenguaje, por lo que decidi abrir esta sección en mi github donde hare pequeños tutoriales explicando los temas y resolviendo los ejercicios del libro "Java Como Programar by Deitel & Deitel 10ma edicion.
 </p>
