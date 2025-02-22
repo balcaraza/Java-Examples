@@ -33,6 +33,13 @@ public class PruebaCuenta {
 		System.out.printf("Saldo de %s: $%.2f%n", cuenta1.obtenerNombre(),cuenta1.obtenerSaldo());
 		System.out.printf("Saldo de %s: $%.2f%n%n", cuenta2.obtenerNombre(),cuenta2.obtenerSaldo());
 
+		//intentar retirar dinero
+
+		System.out.println("Ingrese el monto a retirar de cuenta 1");
+		double monto = entrada.nextDouble();
+		cuenta1.retirar(monto);
+		System.out.printf("El saldo final de %s: $%.2f%n", cuenta1.obtenerNombre(), cuenta1.obtenerSaldo());
+
 
 	}
 
