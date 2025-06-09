@@ -13,6 +13,7 @@ public class PromedioClase2 {
 		//Fase de inicializacion
 		int total =0;
 		int contador =0;
+		
 		//fase de procesamiento
 		
 		System.out.print("Escriba la calificacion o -1 para terminar: ");
