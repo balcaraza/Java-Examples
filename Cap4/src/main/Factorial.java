@@ -14,5 +14,17 @@ public class Factorial {
 		}
 		return acumulado;
 	}
-
+	
+	public double calcularEuler(int n) {
+		double suma=1;
+		double factorial=1;
+		int contador =1;
+		
+		while (contador<n) {
+			factorial=factorial*contador;
+			suma=suma+1/factorial;
+			contador++;
+		}
+		return suma;
+	}
 }
