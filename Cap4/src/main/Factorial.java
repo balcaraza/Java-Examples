@@ -27,4 +27,24 @@ public class Factorial {
 		}
 		return suma;
 	}
+	
+	public double calcularEulerExponencial(int n, double x) {
+		double exponencial=1;
+		double factorial=1;
+		double potencia=1;
+		int contador=1;
+		
+		if (n == 0) {
+			return 1;
+		}
+		
+		while(contador<n) {
+			
+			potencia= potencia*x;
+			factorial=factorial*contador;
+			exponencial=exponencial + (potencia/factorial);
+			contador ++;
+		}
+		return exponencial;
+	}
 }
